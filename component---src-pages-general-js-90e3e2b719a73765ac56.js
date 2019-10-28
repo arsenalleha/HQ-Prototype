@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{376:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=(a(63),a(237),a(24)),s=a(365),o=(a(3),a(361),a(704)),l=a.n(o);t.default=Object(c.a)({root:{textAlign:"center"}})((function(e){var t=e.classes;return r.a.createElement("div",{className:t.root},r.a.createElement(s.a,null),r.a.createElement("img",{src:l.a,alt:"General Screenshot"}))}))},704:function(e,t,a){e.exports=a.p+"static/general-d4de7300144d60110e6072ffa8520bf3.jpg"}}]);
+//# sourceMappingURL=component---src-pages-general-js-90e3e2b719a73765ac56.js.map

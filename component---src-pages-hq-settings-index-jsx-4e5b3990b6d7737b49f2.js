@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{375:function(t,e,n){"use strict";n.r(e);var i=n(0),c=n.n(i),r=n(71);e.default=function(){return c.a.createElement(r.Redirect,{to:"/hq/settings/SecuritySettings"})}}}]);
+//# sourceMappingURL=component---src-pages-hq-settings-index-jsx-4e5b3990b6d7737b49f2.js.map

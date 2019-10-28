@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{371:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n),s=(a(60),a(230),a(17)),i=a(360),r=a(686),o=a.n(r);a(2),a(356);t.default=Object(s.a)({root:{}})((function(e){var t=e.classes;return c.a.createElement("div",{className:t.root},c.a.createElement(i.a,null),c.a.createElement("img",{src:o.a,alt:"Extensibility Screenshot"}))}))},686:function(e,t,a){e.exports=a.p+"static/extensibility-42b36e3d1df780119333f60ac3086ba9.jpg"}}]);
+//# sourceMappingURL=component---src-pages-extensibility-js-5d845f0faa04cb7426eb.js.map

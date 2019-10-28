@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{385:function(e,t,a){"use strict";a.r(t);var c=a(0),n=a.n(c),o=(a(63),a(236),a(24)),s=a(365),i=a(875),r=a.n(i);a(3),a(361);t.default=Object(o.a)({root:{}})((function(e){var t=e.classes;return n.a.createElement("div",{className:t.root},n.a.createElement(s.a,null),n.a.createElement("img",{src:r.a,alt:"Notifications Screenshot"}))}))},875:function(e,t,a){e.exports=a.p+"static/notifications-83c85ef832df4489f921fecce982081c.jpg"}}]);
+//# sourceMappingURL=component---src-pages-notifications-js-4c36fb4b124b342675b4.js.map
